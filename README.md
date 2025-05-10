@@ -10,7 +10,7 @@
 ## Usage
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Yatintheallrounder/Obfuscator.git
+   git clone https://github.com/YTheAllrounder/Obfuscator.git
 
 2. Install dependencies:
    ```bash
@@ -21,6 +21,6 @@
    python gui.py
    
 ## Collaborators
-- [@Yatintheallrounder](https://github.com/Yatintheallrounder)
+- [@YTheAllrounder](https://github.com/YTheAllrounder)
 - [@abhishek26gupta](https://github.com/abhishek26gupta)
 
