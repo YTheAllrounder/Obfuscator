@@ -18,5 +18,5 @@
  
 3. Run the tool:
    ```bash
-   python obfuscator.py
+   python gui.py
 
