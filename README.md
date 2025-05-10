@@ -19,4 +19,8 @@
 3. Run the tool:
    ```bash
    python gui.py
+   
+## Collaborators
+- [@Yatintheallrounder](https://github.com/Yatintheallrounder)
+- [@abhishek26gupta](https://github.com/abhishek26gupta)
 
